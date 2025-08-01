@@ -6,11 +6,11 @@ public class Git{
         git config --global user.name 'Magesh-Vel'
         git config --global user.email "mageshvel1745@gmail"
 
-        u --> add --> commit -->push
+       /* u --> add --> commit -->push
         local                                   github
 
         git add git.java
         git commit -m "message"
-        git status
+        git status*/
     }
 }

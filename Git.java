@@ -11,5 +11,6 @@ public class Git{
 
         git add git.java
         git commit -m "message"
+        git status
     }
 }
